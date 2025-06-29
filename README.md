@@ -58,7 +58,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-[git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git](https://github.com/ashish358/iphone.git)
+git clone https://github.com/ashish358/iphone.git
 cd iphone
 ```
 
